@@ -1,13 +1,12 @@
-# Jupyter + Conda + ML/IA
-
+# Jupyter + Conda + ML/AI
 
 ![jupyterlab](readme-images/image.png)
-# Stack used
+
+## 🚀 Stack Used
 
 <img src="https://skillicons.dev/icons?i=python,vscode,anaconda,git&theme=dark" alt="python,vscode,anaconda,git" />
 
-### Other tools:
-
+### 📚 Other Tools:
 - [conda](https://docs.conda.io/projects/conda/en/latest/index.html#)
 - [pandas](https://pandas.pydata.org/docs/reference/io.html)
 - [jupyter](https://jupyter.org/)
@@ -15,45 +14,67 @@
 - [matplotlib](https://matplotlib.org/)
 - [scikit learn](https://scikit-learn.org/stable/)
 
+---
 
-## Clone this repo
-
-```
+## 📂 Clone this repo
+```bash
 git clone git@github.com:fandredev/my-ml-guide.git
 ```
 
-## Go to directory
-
-```
- cd my-ml-guide
-```
-
-## Create your env using conda
-
-```
- conda env create -f environment.yml
+## 📁 Go to the directory
+```bash
+cd my-ml-guide
 ```
 
-## Activate your env
+## 📦 Create your environment using conda
+```bash
+conda env create -f environment.yml
+```
 
+## 📋 Check installed dependencies
+```bash
+conda list
 ```
- conda activate $YOUR_FOLDER_PATH/env
-```
-## Run jupyter [inside env]
 
+## ✅ Activate your environment
+If you created the environment by name (recommended):
+```bash
+conda activate my-ml-guide
 ```
- jupyter lab
+If you created the environment with a specific path:
+```bash
+conda activate /path/to/your/project/env
+```
+
+## 📓 Run Jupyter (inside the environment)
+```bash
+jupyter lab
 ```
 or
+```bash
+jupyter notebook
+```
 
-``` 
-jupyter nootbook
-``` 
+## 🔒 Deactivate the environment (after working)
+```bash
+conda deactivate
+```
 
-## :mailbox_with_no_mail: Contacts
+## ❌ Remove the environment (if needed)
+If the environment was created by name:
+```bash
+conda env remove -n my-ml-guide
+```
+If the environment was created by path:
+```bash
+conda env remove -p /path/to/your/project/env
+```
 
-E-mail: profissionalf.andre@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/devfandre/<br>
-Pórtfolio: https://developer-felipe-andre.vercel.app/<br>
-Youtube: https://www.youtube.com/@thistate/<br>
-Blog: https://medium.com/@thistate<br>
+---
+
+## 📬 Contacts
+- E-mail: profissionalf.andre@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/devfandre/)  
+- [Portfolio](https://developer-felipe-andre.vercel.app/)  
+- [YouTube](https://www.youtube.com/@thistate/)  
+- [Blog](https://medium.com/@thistate/)  

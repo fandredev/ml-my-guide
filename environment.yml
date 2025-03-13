@@ -1,4 +1,4 @@
-name: /home/felipe/projects/sample_project_data_science/env
+name: my-ml-guide
 channels:
   - conda-forge
   - defaults
