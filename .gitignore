@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+/envs/
+/.conda/
+.ipython/
+.jupyter/
+.conda/
+.condarc
+.continuum/
+__pycache__/
+*.py[cod]
+env/
