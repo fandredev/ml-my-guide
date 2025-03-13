@@ -19,13 +19,13 @@
 ## Clone this repo
 
 ```
-git clone git@github.com:fandredev/ds-introduction.git
+git clone git@github.com:fandredev/my-ml-guide.git
 ```
 
 ## Go to directory
 
 ```
- cd ds-introduction
+ cd my-ml-guide
 ```
 
 ## Create your env using conda
