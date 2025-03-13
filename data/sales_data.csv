@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Date
+1,Laptop,Electronics,2,1500,2025-03-10
+2,Mouse,Electronics,5,20,2025-03-11
+3,Keyboard,Electronics,3,50,2025-03-12
+4,T-Shirt,Clothing,4,15,2025-03-12
+5,Shoes,Clothing,2,100,2025-03-13
+6,Book,Books,7,10,2025-03-13
+7,Smartphone,Electronics,1,800,2025-03-14
+8,Jacket,Clothing,2,70,2025-03-15
+9,Notebook,Stationery,10,5,2025-03-15
+10,Pen,Stationery,20,1,2025-03-16
