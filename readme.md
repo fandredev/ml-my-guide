@@ -73,8 +73,14 @@ conda env remove -p /path/to/your/project/env
 ---
 
 ## 📬 Contacts
-- E-mail: profissionalf.andre@gmail.com  
+- [E-mail](profissionalf.andre@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/devfandre/)  
 - [Portfolio](https://developer-felipe-andre.vercel.app/)  
 - [YouTube](https://www.youtube.com/@thistate/)  
 - [Blog](https://medium.com/@thistate/)  
+
+
+## References
+
+- [pandas exercises](https://github.com/guipsamora/pandas_exercises) 
+- [pandas trello guide alura](https://trello.com/b/rqQwqQTl/pandas-conhecendo-a-biblioteca) 
