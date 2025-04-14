@@ -13,6 +13,7 @@
 - [numpy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
 - [scikit learn](https://scikit-learn.org/stable/)
+- [sql alchemy](https://www.sqlalchemy.org/)
 
 ---
 
