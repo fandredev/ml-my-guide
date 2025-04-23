@@ -123,6 +123,7 @@ dependencies:
   - mkl_fft=1.3.11=py313h5eee18b_0
   - mkl_random=1.2.8=py313h06d7b56_0
   - mysql=8.4.0=h29a9f33_1
+  - narwhals=1.31.0=py313h06a4308_1
   - nbclient=0.10.2=pyhd8ed1ab_0
   - nbconvert-core=7.16.6=pyh29332c3_0
   - nbformat=5.10.4=pyhd8ed1ab_1
@@ -148,6 +149,7 @@ dependencies:
   - pip=25.0=py313h06a4308_0
   - pkgutil-resolve-name=1.3.10=pyhd8ed1ab_2
   - platformdirs=4.3.6=pyhd8ed1ab_1
+  - plotly=6.0.1=py313h7040dfc_0
   - prometheus_client=0.21.1=pyhd8ed1ab_0
   - prompt-toolkit=3.0.50=pyha770c72_0
   - psutil=5.9.0=py313h5eee18b_1
@@ -212,6 +214,7 @@ dependencies:
   - websocket-client=1.8.0=pyhd8ed1ab_1
   - wheel=0.45.1=py313h06a4308_0
   - xcb-util-cursor=0.1.4=h5eee18b_0
+  - xlrd=2.0.1=pyhd3eb1b0_1
   - xz=5.6.4=h5eee18b_1
   - yaml=0.2.5=h7f98852_2
   - zeromq=4.3.5=h6a678d5_0
