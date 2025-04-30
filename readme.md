@@ -15,6 +15,7 @@
 - [scikit learn](https://scikit-learn.org/stable/)
 - [sql alchemy](https://www.sqlalchemy.org/)
 - [plotly](https://plotly.com/python/)
+- [unittest](https://docs.python.org/3/library/unittest.html)
 
 ---
 
