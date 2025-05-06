@@ -16,6 +16,7 @@
 - [sql alchemy](https://www.sqlalchemy.org/)
 - [plotly](https://plotly.com/python/)
 - [unittest](https://docs.python.org/3/library/unittest.html)
+- [seaborn](https://seaborn.pydata.org/)
 
 ---
 
