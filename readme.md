@@ -1,4 +1,4 @@
-# Jupyter + Conda + ML/AI
+# Jupyter, Conda + ML/AI
 
 ![jupyterlab](readme-images/image.png)
 
