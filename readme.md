@@ -17,6 +17,7 @@
 - [plotly](https://plotly.com/python/)
 - [unittest](https://docs.python.org/3/library/unittest.html)
 - [seaborn](https://seaborn.pydata.org/)
+- [faker](https://pypi.org/project/Faker/)
 
 ---
 
