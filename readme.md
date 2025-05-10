@@ -21,6 +21,10 @@
 
 ---
 
+# How to Run
+https://github.com/user-attachments/assets/1a1c157a-e9e7-403e-b205-c6a7cd601dea
+
+
 ## 📂 Clone this repo
 ```bash
 git clone git@github.com:fandredev/my-ml-guide.git
