@@ -35,6 +35,9 @@ git clone git@github.com:fandredev/my-ml-guide.git
 cd my-ml-guide
 ```
 
+## 🔑 Check the .env file
+Make sure to create and/or check the `.env` using the `.env.example` file in the root directory of the project, if applicable.
+
 ## 📦 Create your environment using conda
 ```bash
 conda env create -f environment.yml
@@ -86,10 +89,8 @@ conda env remove -p /path/to/your/project/env
 - [LinkedIn](https://www.linkedin.com/in/devfandre/)  
 - [Portfolio](https://developer-felipe-andre.vercel.app/)  
 - [YouTube](https://www.youtube.com/@thistate/)  
-- [Blog](https://medium.com/@thistate/)  
 
 
 ## References
 
 - [pandas exercises](https://github.com/guipsamora/pandas_exercises) 
-- [pandas trello guide alura](https://trello.com/b/rqQwqQTl/pandas-conhecendo-a-biblioteca) 
