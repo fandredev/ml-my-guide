@@ -126,7 +126,7 @@ scikit-learn @ file:///croot/scikit-learn_1737988764076/work
 scipy @ file:///croot/scipy_1737122901252/work/dist/scipy-1.15.1-cp313-cp313-linux_x86_64.whl#sha256=2e16e9dfefd37e2502f12925dd4455f3a2024c3004b56d70de9c499eabf432d6
 seaborn @ file:///croot/seaborn_1749110291192/work
 Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1733322040660/work
-setuptools==72.1.0
+setuptools==78.1.1
 sip @ file:///croot/sip_1738856193618/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1733244044561/work
